@@ -70,7 +70,7 @@ void build_trie_from_file(TrieNode* & root){
 	ifstream target_file_in;
 	string string_to_add;
 
-	target_file_in.open("/opt/dropbox/19-20/473/project4/targets");	// open target file
+	target_file_in.open("targets");	// open target file
 	if (target_file_in) {
 		target_file_in >> string_to_add;			// read first line
 		while (target_file_in && !target_file_in.eof()) {
@@ -94,7 +94,7 @@ void get_dna_files(vector<string> & file_list){
 	struct dirent *pdir;
 	regex dna(".*\\.dna");
 	
-	dir = opendir("/opt/dropbox/19-20/473/project4/hg19-GRCh37/");
+	dir = opendir("/hg19-GRCh37/");
 	while((pdir = readdir(dir)) != NULL){
 		string temp = pdir->d_name;			// read directory item
 		if (regex_match(temp,dna))			// match .dna extension
@@ -137,7 +137,7 @@ void search_trie(TrieNode* & root, vector<string> & file_list){
 
 void dna_file_to_string(string & dna_content, vector<string>::iterator & file_itr){
 	ifstream dna_file_in;
-	dna_file_in.open("/opt/dropbox/19-20/473/project4/hg19-GRCh37/" + *file_itr);
+	dna_file_in.open("/hg19-GRCh37/" + *file_itr);
 	if (dna_file_in) {
 		dna_file_in >> dna_content;			// read into string
 		for (unsigned int j = 0; j < dna_content.length(); ++j)
@@ -155,7 +155,7 @@ void dna_file_to_string(string & dna_content, vector<string>::iterator & file_it
 
 void write_extra_credit_file(map<string, vector<string>> & results_map){
 	ofstream file_out;
-	file_out.open("extra-credit");
+	file_out.open("output_ver2");
 	if (file_out) {
 		for(map<string, vector<string>>::iterator ii = results_map.begin();ii!=results_map.end();++ii){
 			file_out << ii->first << "\n";					// output target DNA sequence

@@ -126,7 +126,7 @@ void TrieNode::match_sequence(string & dna_content, map<string, vector<string>> 
 	string hex_result, match_string;
 	stringstream stream;							// used for hex conversion
 
-	cout << "/opt/dropbox/19-20/473/project4/hg19-GRCh37/" + filename << "\n";
+	cout << filename << "\n";
 	for (unsigned int i = 0; i < dna_content.length(); ++i) {// for each character
 		current_char = start_char = &(dna_content[i]);		// reset pointers
 		if (*current_char != 'N') {
