@@ -1,4 +1,4 @@
-DNA sequence search trie
+DNA Sequence Search Trie
 ---
 
 
