@@ -11,4 +11,4 @@ Each node in the TrieNode class trie structure contains an array of five TrieNod
 
 ![](output_sample.jpg)
 
-The full dataset (778 MB) can be found [here](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/bigZips/hg19.2bit).
+The full USCS genome dataset (778 MB) can be found [here](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/bigZips/hg19.2bit).
