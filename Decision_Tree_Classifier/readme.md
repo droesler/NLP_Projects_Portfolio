@@ -3,7 +3,9 @@ Decision Tree Classifier
 ---
 :warning: (Documentation in progress!):warning:
 
-This script builds a decision tree from the training data, classifies the training and test data, and calculates the accuracy
+This code was used to classify a subset of the [20 newsgroups text dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) from sci-kit learn. Posts from the 'talk.politics.guns', 'talk.politics.mideast', and 'talk.politics.misc' using a decision tree implementation.
+ 
+The script builds a decision tree from the training data, classifies the training and test data, and calculates the accuracy
 
 
 
