@@ -1,7 +1,7 @@
 DNA Sequence Search Trie
 ---
 
-
+:warning: :construction: (Documentation in progress!) :construction: :warning:
 
 Searches for DNA sequences in the human genome chromosome dataset produced by UCSC for [The UCSC genome browser](https://genome.ucsc.edu/).
 
