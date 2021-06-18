@@ -1,0 +1,30 @@
+1	The scope of the discipline of statistics broadened in the early 19th century to include the collection and analysis of data in general.
+2	Cé go bhfuil an chuma air nach féidir rudaí deimhneacha a rá faoi eachtraí randamacha, le coincheap na dóchúlachta, is féidir a rá cad é an seans go dtarlóidh eachtra fánach agus mar sin, is féidir cur síos a dhéanamh ar an gcóras.
+3	Na przyklad wzrost czlowieka jest uwarunkowany ogromna iloscia czynników, takich jak genetyka, dieta, srodowisko, przy czym niektóre z nich równiez maja losowa nature. 
+4	approccio i dati risultati da un esperimento vengono indagati attraverso metodi di sintesi al fine di formulare ipotesi riguardo la legge di probabilità sottesa 
+5	dedica a la generación de los modelos, inferencias y predicciones asociadas a los fenómenos en cuestión teniendo en cuenta lo aleatorio e incertidumbre en las observaciones. Se usa para modelar patrones en los datos 
+6	Cette distinction ne consiste pas à définir plusieurs domaines étanches. En effet, le traitement et l'interprétation des données ne peuvent se faire que lorsque celles-ci ont été récoltées. 
+7	Porque o objetivo da estatística é a produção da melhor informação possível a partir dos dados disponíveis, alguns autores sugerem que a estatística é um ramo da teoria da decisão.
+8	Door de tweeledigheid van populatie en steekproef ontstaat veel verwarring. Men dient steeds goed te onderscheiden of men over de populatie (verdeling) spreekt dan wel over de steekproef. 
+9	Die deskriptive Statistik (auch beschreibende Statistik oder empirische Statistik): mit der vorliegende Daten in geeigneter Weise beschrieben und zusammengefasst werden. 
+10	Den er basert på statistisk teori som er en gren av matematikk. Innenfor statistisk teori er tilfeldighet og usikkerhet utformet ved hjelp av sannsynlighetsteori. 
+11	Ordet statistik kan dels avse datauppgifter som ofta presenteras i numerisk form, vanligen i tabeller eller diagram, dels vetenskapen om hur dessa datauppgifter skall samlas in, utvärderas, analyseras och presenteras. 
+12	Det kan være, at det er dyrt at lave målingerne eller, at det ikke er fysisk muligt at undersøge mere end et udsnit af populationen. For eksempel er det ikke muligt at undersøge alt vandet i verdenshavene. 
+13	Hisabati ni somo inayohusika na idadi, upimaji na ukubwa. Kwa ujumla ni somo inayohusika na miundo na vielezo. Hisabati inatimiza somo mbalimbali, kama hesabu, jiometria na aljebra.
+14	na nanggaling ang salitang Italyano na statista, na nangangahulugang "dalubhasa sa pagpapalakad ng pamahalaan" o "pulitiko", at ang Aleman na Statistik, sa orihinal na kahulugan, ang pagpipili ng pagsusuri ng datos tungkol sa estado. 
+15	Aineistoa on tavallisesti mahdollista kerätä vain populaation osajoukosta, jolloin tutkimuksen kohteena on otos. Otoksesta voidaan kerätä aineistoa joko havainnoiden tai kokeellisessa asetelmassa. 
+16	Palikuwa pia na vipindi na utamaduni ambako wapiganaji walikuwa watu wa pekee wenye jukumu hii ama kwa sababu walipaswa kuwa askari kufuatana na sheria za nchi au kwa sababu walikodiwa kwa kazi hii.
+17	considera-se o estado "ideal" de guerra, ou seja, uma guerra em que prevalece a diplomacia, a estratégia e a racionalidade, não havendo inspiração de ordem emocional ou moralista. 
+18	Vanaf het begin is oorlog voeren al onderworpen geweest aan wetten en reglementen, al zijn die in de loop der tijd wel veranderd. Er is met name veel nagedacht over de rechtvaardiging van een oorlog. 
+19	El concepto de quiénes son los combatientes también varía con el grado de organización de las sociedades enfrentadas. Las dos posibilidades más frecuentes son civiles sacados de la población general, generalmente varones jóvenes, 
+20	Bhris an cogadh amach sa bhliain 1775 nuair a ghlac na réabhlóidithe seilbh ar na rialtais i ngach coilíneacht agus chuireadar an Dara Chomhdháil Ilchríochach agus an tArm Ilchríochach nua ar bun. 
+21	la guerre économique pouvant alors, sous une apparence plus socialement et éthiquement acceptable, satisfaire d'autres appétits de pouvoirs que ceux qui animaient les auteurs des guerres ethniques, de religions, de classe, 
+22	Kriget framträder antingen som försvarskrig, till avvärjande av framställda anspråk, som ej kan godtas, eller anfallskrig, som avser att framtvinga sådana anspråks godkännande: 
+23	Karamihan sa mga isla dito ay mabundok, at ang iba ay may mga bulkan, kabilang na ang pinakamataas na bahagi ng bansa, Ang Hapon ay pangsampu sa may pinakamalaking populasyon, na may 128 milyong katao. 
+24	For a state to prosecute a war it must have the support of its leadership, its military forces, and the population. For example, in the 
+25	Si giunge alla guerra quando il contrasto di interessi economici, ideologici, strategici o di altra natura non riesce a trovare una soluzione negoziata, o quando almeno una delle parti percepisce l'inesistenza di altri mezzi per il conseguimento 
+26	Krig kan defineres som, erklærede fjendtlige handlinger mellem to eller flere lande eller stater. Årsagerne til krig kan være mange, for eksempel: ønske om at udvide landet, 
+27	Wojna jest zjawiskiem spoleczno-politycznym i jako takie jest obecna w historii czlowieka od poczatków jego spolecznej organizacji. Zasieg wojny jest zalezny od stopnia rozwoju technologicznego.
+28	Während individuelles oder kollektives Rauben und absichtliches Töten von Menschen heute generell als Verbrechen gilt und in einem Rechtsstaat strafbar ist, wird "Krieg" nicht als gewöhnliche Kriminalität betrachtet,
+29	Tavoitteellisuus tekee sodasta poliittista toimintaa. Jos tavoitteisiin päästään neuvottelemalla tai sodan uhalla, ei kalliiseen taisteluun ole tarvetta. Vihollisen taistelukyky voidaan poistaa tappamalla ja vangitsemalla sen johtajat ja riisumalla sen armeija aseista. 
+30	Fysisk styrke og våpen har i uminnelige tider vært brukt som et maktmiddel i konflikter mellom mennesker. Et organisert militærvesen av et eller annet slag har derfor vært et viktig del av maktapparatet 
