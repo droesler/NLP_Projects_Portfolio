@@ -16,7 +16,7 @@ The format for launching the script is:
 
 ```build_dt.sh training_data test_data max_depth min_gain model_file sys_output > acc_file```
 
-| ![results_table.png](results_table.png) | 
+| <img src="results_table.png" alt="results_table.png" width="200"/> | 
 |:--:| 
 | *Decision tree results when min_gain=0.* |
 
