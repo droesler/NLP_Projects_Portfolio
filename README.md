@@ -2,5 +2,5 @@
 
 :warning: (Work in progress!):warning:
 
-Portfolio of NLP projects developed in coursework at the University of Washington.
+Portfolio of NLP projects produced during coursework at the University of Washington.
 
