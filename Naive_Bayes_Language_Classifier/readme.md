@@ -18,11 +18,6 @@ Where N is the total token count for the language model and V is the type count 
 The language category of a given text is labeled as “unk” (unknown) if the percentage of recognized sentence tokens in the most probable language is less than 1/3. This condition was set in order to identify cases where data is sparse and it becomes problematic to maintain a high degree of confidence in any classification.
 
 
-The format for launching the script is:  
-
-```TODO```
-
-
 | <img src="output_sample.jpg" alt="output_sample.jpg" width="1000"/> | 
 |:--:| 
 | *Results for the first input sentence.* |
