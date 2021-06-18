@@ -17,7 +17,7 @@ To calculate the (smoothed) log probability of each word in the 15 language samp
 Where N is the total token count for the language model and V is the type count for the language model (1,500 for all models). The “add-k” smoothing technique was utilized to account for words that are unknown to the language models. The value of .000001 was assigned to k for these calculations (this choice is discussed in Section 2).
 The language category of a given text is labeled as “unk” (unknown) if the percentage of recognized sentence tokens in the most probable language is less than 1/3. This condition was set in order to identify cases where data is sparse and it becomes problematic to maintain a high degree of confidence in any classification.
 
-
+<br/>
 | <img src="output_sample.jpg" alt="output_sample.jpg" width="1000"/> | 
 |:--:| 
 | *Results for the first input sentence.* |
