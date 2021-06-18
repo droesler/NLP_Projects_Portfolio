@@ -15,8 +15,8 @@ The format for launching the script is:
 ```TODO```
 
 
-| <img src="output_sample.jpg" alt="output_sample.jpg" width="500"/> | 
+| <img src="output_sample.jpg" alt="output_sample.jpg" width="800"/> | 
 |:--:| 
-| *Result for the first input sentence.* |
+| *Results for the first input sentence.* |
 
 
