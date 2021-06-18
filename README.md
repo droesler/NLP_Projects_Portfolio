@@ -1,2 +1,6 @@
 # NLP_Projects_portfolio
-Portfolio of NLP projects developed at the University of Washington
+
+:warning: (Documentation in progress!):warning:
+
+Portfolio of NLP projects developed in coursework at the University of Washington.
+
