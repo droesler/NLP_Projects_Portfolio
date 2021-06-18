@@ -15,8 +15,8 @@ The format for launching the script is:
 ```TODO```
 
 
-| <img src="results_table.png" alt="results_table.png" width="500"/> | 
+| <img src="output_sample.jpg" alt="output_sample.jpg" width="500"/> | 
 |:--:| 
-| *Decision tree results when min_gain=0.* |
+| *Result for the first input sentence.* |
 
 
