@@ -13,6 +13,6 @@ The format for launching the script is:
 
 where ```training_data``` is train.vectors.txt, ```test_data``` is test.vectors.txt, ```k_val``` is the number of nearest neighbors used to make a classification decision, ```similarity_func``` is 1 for Euclidean distance and 2 for cosine similarity, and ```sys_output``` is the classification results for the train and test data.
 
-| <img src="results_table.png" alt="results_table.png" width="500"/> | 
+| <img src="knn_results.png" alt="knn_results.png" width="500"/> | 
 |:--:| 
-| *kNN classifier results by k values and similarity functions.* |
+| *kNN classifier test accuracy by k values and similarity functions.* |
