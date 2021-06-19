@@ -15,9 +15,12 @@ The format for launching the script is:
 
 where ```training_data``` is train.vectors.txt, ```test_data``` is test.vectors.txt, ```max_depth``` is the maximum depth of the tree, ```min_gain``` is the minimal information gain for each split, ```model_file``` is the filename for the output model, and ```sys_output``` is the classification results for the train and test data.
 
-| <img src="results_table.png" alt="results_table.png" width="500"/> | 
-|:--:| 
-| *Decision tree results when min_gain=0.* |
+<p align="center">
+  | <img src="results_table.png" alt="results_table.png" width="500"/> | 
+  |:--:| 
+  | *Decision tree results when min_gain=0.* |
+</p>
+
 
 
 
