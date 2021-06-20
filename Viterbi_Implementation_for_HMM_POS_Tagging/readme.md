@@ -11,7 +11,7 @@ The format for launching the script is:
 
 ```viterbi.py input_hmm test_file output_file```
 
-where ```input_hmm``` is a valid Mallet HMM file (such as hmm5, which can be found in hmm5.rar), ```test_file``` is test.vectors.txt, ```k_val``` is the number of nearest neighbors used to make a classification decision, ```similarity_func``` is 1 for Euclidean distance and 2 for cosine similarity, and ```sys_output``` is the classification results for the train and test data.
+where ```input_hmm``` is a valid Mallet HMM file (such as ```hmm5```, which can be found in ```hmm5.rar```), ```test_file``` is test.vectors.txt, ```k_val``` is the number of nearest neighbors used to make a classification decision, ```similarity_func``` is 1 for Euclidean distance and 2 for cosine similarity, and ```sys_output``` is the classification results for the train and test data.
 
 | <img src="knn_results.png" alt="knn_results.png" width="500"/> | 
 |:--:| 
