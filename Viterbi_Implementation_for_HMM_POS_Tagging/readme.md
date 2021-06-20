@@ -11,7 +11,7 @@ The format for launching the script is:
 
 ```viterbi.py input_hmm test_file output_file```
 
-where ```input_hmm``` is a valid Mallet HMM file (such as ```hmm5```, which can be found in ```hmm5.rar```), ```test_file``` is ```test.word```, and ```output_file``` is the desired name of the output file.
+where ```input_hmm``` is a valid Mallet HMM file (such as hmm5, which can be found in hmm5.rar), ```test_file``` is test.word, and ```output_file``` is the desired name of the output file.
 
 | <img src="knn_results.png" alt="knn_results.png" width="500"/> | 
 |:--:| 
