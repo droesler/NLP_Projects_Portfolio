@@ -3,7 +3,7 @@
 Viterbi Implementation for HMM POS Tagging
 ---
 
-This script reads an HMM file produced by the [MALLET](http://mallet.cs.umass.edu/) machine learning toolkit and an input text, then finds the most probable tag sequence for the text and outputs the results to another file.
+This script reads an HMM file produced by the [MALLET](http://mallet.cs.umass.edu/) machine learning toolkit and an input text, uses an implementation of the Viterbi algorithm to find the most probable tag sequence for the text, and then outputs the results to a file.
 
 ### About the code
 
