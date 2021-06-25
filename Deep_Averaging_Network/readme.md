@@ -7,7 +7,7 @@ A Pytorch implementation of the Deep Averaging Network introduced in Iyyer et al
  
 ### About the code
 Dependencies:
-See environment.yml.
+See environment.yml for the Conda environment.
 
 Command line parameters:
 ```
