@@ -7,11 +7,23 @@ A Pytorch implementation of the Deep Averaging Network introduced in Iyyer et al
  
 ### About the code
 
-The format for launching the script is:  
+Command line parameters:
+```
+    # model arguments
+    parser.add_argument('--embedding_dim', type=int, default=300)
+    parser.add_argument('--hidden_dim', type=int, default=300)
+    # training arguments
+    parser.add_argument('--batch_size', type=int, default=64)
+    parser.add_argument('--seed', type=int, default=572)
+    parser.add_argument('--num_epochs', type=int, default=15)
+    parser.add_argument('--patience', type=int, default=None)
+    parser.add_argument('--L2', action="store_true")
+    # data arguments
+    parser.add_argument('--data_dir', type=str, default='/data')
+    parser.add_argument('--vocab_size', type=int, default=20000)
+    parser.add_argument('--padding_index', type=int, default=1)
+```
 
-```build_dt.py training_data test_data max_depth min_gain model_file sys_output```
-
-where ```training_data``` is train.vectors.txt, ```test_data``` is test.vectors.txt, ```max_depth``` is the maximum depth of the tree, ```min_gain``` is the minimal information gain for each split, ```model_file``` is the filename for the output model, and ```sys_output``` is the classification results for the train and test data.
 
 | <img src="DAN_output.png" alt="DAN_output.png" width="1000"/> | 
 |:--:| 
