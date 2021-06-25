@@ -3,7 +3,7 @@
 Naive Bayes Language Classifier
 ---
 
-A naive Bayesian classifier implementation that classifies fragments of text according to language category. 
+A naive Bayes classifier implementation that classifies fragments of text according to language category. 
 
 ### About the code
 
