@@ -25,7 +25,7 @@ Command line parameters:
     parser.add_argument('--vocab_size', type=int, default=20000)
     parser.add_argument('--padding_index', type=int, default=1)
 ```
-
+Example output:
 
 | <img src="DAN_output.png" alt="DAN_output.png" width="1000"/> | 
 |:--:| 
