@@ -3,7 +3,7 @@
 Naive Bayes Language Classifier
 ---
 
-This project is a Python implementation of a naive Bayesian classifier that classifies fragments of text according to language category. 
+A naive Bayesian classifier implementation that classifies fragments of text according to language category. 
 
 ### About the code
 
