@@ -6,6 +6,8 @@ Deep Averaging Network
 A Pytorch implementation of the Deep Averaging Network introduced in Iyyer et al (2015). Performs binary sentiment classification on the [IMDB reviews dataset](http://ai.stanford.edu/~amaas/data/sentiment/). 
  
 ### About the code
+Dependencies:
+See environment.yml.
 
 Command line parameters:
 ```
