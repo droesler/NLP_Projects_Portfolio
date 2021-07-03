@@ -15,4 +15,4 @@ where ```test_data``` is sec19_21.txt, ```boundary_file``` is sec19_21.boundary,
 
 | <img src="beamsearch_output.png" alt="beamsearch_output.png" width="500"/> | 
 |:--:| 
-| *A sample of the output with the format of: (sentence #)-(word #)-(word) (gold POS label) (predicted label) (probability of tag given word).* |
+| *A sample of the output with the format of: (sentence # - word # - word) (gold POS label) (predicted label) (probability of tag given word).* |
