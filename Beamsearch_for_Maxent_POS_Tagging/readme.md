@@ -11,7 +11,7 @@ The format for launching the script is:
 
 ```beamsearch_maxent.py test_data boundary_file model_file sys_output beam_size topN topK```
 
-where ```input_hmm``` is hmm5, which can be found in hmm5.rar, ```test_file``` is test.word, and ```output_file``` is the desired name of the output file.
+where ```test_data``` is sec19_21.txt, ```boundary_file``` is sec19_21.boundary, ```model_file``` is m1.txt (in m1.rar), ```sys_output``` is the desired name of the output, ```beam_size``` is the max gap between the log probability of the best path and the log probability of a kept path, ```topN``` is the number of best POS tags for a word to use when expanding a tree node, and ```topK``` is the max number of paths kept alive at each position after pruning.
 
 | <img src="output_sample.png" alt="output_sample.png" width="1700"/> | 
 |:--:| 
