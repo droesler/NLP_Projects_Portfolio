@@ -13,6 +13,6 @@ The format for launching the script is:
 
 where ```test_data``` is sec19_21.txt, ```boundary_file``` is sec19_21.boundary, ```model_file``` is m1.txt (in m1.rar), ```sys_output``` is the desired name of the output, ```beam_size``` is the max gap between the log probability of the best path and the log probability of a kept path, ```topN``` is the number of best POS tags for a word to use when expanding a tree node, and ```topK``` is the max number of paths kept alive at each position after pruning.
 
-| <img src="output_sample.png" alt="output_sample.png" width="1700"/> | 
+| <img src="beamsearch_output.png" alt="beamsearch_output.png" width="800"/> | 
 |:--:| 
 | *A sample of the output with the format of: (input) => (trigram POS label) (joint log probability of sequence).* |
