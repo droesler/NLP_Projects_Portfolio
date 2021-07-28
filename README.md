@@ -1,5 +1,4 @@
 NLP projects portfolio
 ---
 
-Portfolio of NLP projects produced during coursework at the University of Washington.
-
+Portfolio of implementations of various statistical NLP models. 
