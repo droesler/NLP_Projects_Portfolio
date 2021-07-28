@@ -1,4 +1,4 @@
 NLP projects portfolio
 ---
 
-Portfolio of implementations of various statistical NLP models. 
+A portfolio containing my implementations of various statistical NLP models.
