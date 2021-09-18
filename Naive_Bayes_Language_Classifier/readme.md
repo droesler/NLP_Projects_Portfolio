@@ -1,4 +1,3 @@
-:warning: (Documentation in progress!):warning:
 
 Naive Bayes Language Classifier
 ---
