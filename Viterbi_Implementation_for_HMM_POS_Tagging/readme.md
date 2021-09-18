@@ -1,4 +1,3 @@
-:warning: (Documentation in progress!):warning:
 
 Viterbi Implementation for HMM POS Tagging
 ---
