@@ -1,4 +1,3 @@
-:warning: (Documentation in progress!) :warning:
 
 DNA Sequence Search Trie
 ---
