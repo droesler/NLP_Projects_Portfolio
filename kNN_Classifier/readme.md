@@ -1,4 +1,3 @@
-:warning: (Documentation in progress!):warning:
 
 K-Nearest Neighbors Classifier
 ---
